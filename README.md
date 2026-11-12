@@ -27,6 +27,7 @@
 | [**REVEYE**](https://github.com/OSP-PJ/RevKeyRec) | 상품 리뷰에서 핵심 장단점 키워드를 뽑아 한눈에 보여주는 웹 서비스 | 데이터 크롤링, 벡터 임베딩, 데이터 검수, DB | React, FastAPI, Firebase, GPT-4o |
 | [**MOA**](https://github.com/PublicIsDJ/moa-app) | [작성 예정] | [작성 예정] | Next.js, TypeScript |
 | **Nangman Arclab** | [작성 예정] | [작성 예정] | [작성 예정] |
+| [**Automation-script**](https://github.com/swtae0214/Automation-script) | 다양한 업무에 사용되는 자동화 스크립트 | 사내 메신저 행사 알림봇, 데이터 마이그레이션 스크립트 등 | Linux, Python |
 
 ### REVEYE
 
